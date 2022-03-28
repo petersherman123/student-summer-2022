@@ -3,3 +3,4 @@ intake-esm==2021.8.17
 matplotlib==3.5.1
 xarray==0.20.2
 dask==2022.2.0
+s3fs==2022.2.0
